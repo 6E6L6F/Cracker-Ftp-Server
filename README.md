@@ -2,13 +2,22 @@
 
 ##
 
-##Cracking FTP Server With My Script Python 🎈
+## Cracking FTP Server With My Script Python 🎈
 
-###Installing Project  ✨
+### Installing Project  ✨
 
 #### Install Python In Any OS And Download Project 📩
 
 #### Run Script File With Python 🚬
+
+##
+
+### How To Use It? 🔍
+
+#### You Can Set Password List, Username list For Crack And Set One Server Or Set Server list For Crack 🎆
+
+#### Just Set Parameter Inputs For Crack 🌙
+
 
 ##
 
