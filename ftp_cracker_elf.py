@@ -20,7 +20,6 @@ class Cracker:
         with open(self.username_file ,'r') as file:
             self.usernames = file.read().split('\n')
             file.close()
-
         return self.usernames
     
     def read_ftp_servers(self) -> list:
@@ -29,7 +28,7 @@ class Cracker:
             file.close()
         return self.ftp_servers
 
-    def main(self):
+    def main(self) -> None:
         if self.path_file_servers != None and self.server == None:
             ftp_servers = self.read_ftp_servers()
         else:
